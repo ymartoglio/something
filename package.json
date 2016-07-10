@@ -1,0 +1,22 @@
+{
+  "name": "something",
+  "version": "0.1.0",
+  "description": "What the user wants",
+  "main": "index.js",
+  "dependencies": {
+    "merge": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "request",
+    "parameters",
+    "query",
+    "mongoose",
+    "driver"
+  ],
+  "author": "ymartoglio",
+  "license": "MIT"
+}
